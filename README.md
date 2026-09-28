@@ -47,7 +47,7 @@ Full-stack developer with 7+ years of experience delivering web solutions across
 - **RoushTech** - Full-Stack Developer: Mobile-first applications for medical and utility sectors
 - **Barred Owl Web** - Web Developer: WordPress customization, Shopify themes, performance optimization
 - **WeLocalize** - Data Analyst: Search algorithm analysis and quality improvement
-- **The Phoenix Firestorm Project** - Open Source Developer: Supporting 400,000+ yearly users
+- **The Phoenix Firestorm Project** - Technical Support Specialist: Providing live support to 400,000+ yearly users
 
 ## Notable Projects
 
