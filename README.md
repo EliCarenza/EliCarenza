@@ -57,8 +57,9 @@ Full-stack developer with 7+ years of experience delivering web solutions across
 
 ## Connect
 
-- **Portfolio:** [elicarenza.com](https://elicarenza.com)
+- **Website:** [elicarenza.com](https://elicarenza.com)
 - **LinkedIn:** [Eli Carenza](https://www.linkedin.com/in/eli-carenza/)
+- **GitHub:** [GalaxyLittlepaws](https://github.com/GalaxyLittlepaws) - Video game projects and creative coding
 
 ---
 
